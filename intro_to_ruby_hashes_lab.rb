@@ -1,4 +1,5 @@
 def new_hash
+
 return list=Hash.new
 end
 
