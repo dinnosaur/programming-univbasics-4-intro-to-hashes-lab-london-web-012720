@@ -3,7 +3,8 @@ return list=Hash.new
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+list = {:coding => "Ruby"}
+ 
 end
 
 def pioneer
